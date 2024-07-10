@@ -1,2 +1,3 @@
-# AMR_document_repo
-Document repository for algorithms used in AMR
+
+
+JointPPO algorithm - https://arxiv.org/html/2404.11831v2
